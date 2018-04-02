@@ -3,7 +3,7 @@ Problems are mainly from LeetCode
 2018
 3/19 : 94. Binary Tree Inorder Traversal
 3/20 : 173. Binary Search Tree Iterator
-3/21 : 22.generate parentheses --not solved yet
+3/21 : 22. generate parentheses --not solved yet
 3/22 : 101. Symmetric Tree
 3/23 : DFS, BFS, Dijikstra, Bellman-ford
 3/24 : sieve of eratosthenes, "heap tree" review
@@ -12,3 +12,8 @@ Problems are mainly from LeetCode
 3/27 : 104. Maximum Depth of Binary Tree
 3/28 : 103. Binary Tree Zigzag Level Order Traversal
 3/29 : 110. Balanced Binary Tree
+3/30 : Kth Smallest Element in a BST
+3/31 : 
+4/1  : Greedy Algorithm (GeeksForGeeks) Summary
+4/2  : 19. Remove Nth Node From End of List
+4/3  : 7. Reverse Integer
